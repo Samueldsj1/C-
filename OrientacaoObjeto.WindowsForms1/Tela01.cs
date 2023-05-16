@@ -37,7 +37,7 @@ namespace OrientacaoObjeto.WindowsForms1
         }
         private void txtNomeCpf_Click(object sender, EventArgs e)
         {
-            Segurado segurado = new Segurado("samuel", "123.456.789-10");
+            Segurado segurado = new Segurado("samuel Duarte da Silva", "123.456.789-10");
             MessageBox.Show(segurado.Nome);
             MessageBox.Show(segurado.CPF.ToString());
         }
