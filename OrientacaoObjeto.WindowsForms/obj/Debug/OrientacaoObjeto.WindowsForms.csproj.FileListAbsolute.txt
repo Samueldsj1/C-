@@ -1,0 +1,13 @@
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.WindowsForms\bin\Debug\OrientacaoObjeto.WindowsForms.exe.config
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.WindowsForms\bin\Debug\OrientacaoObjeto.WindowsForms.exe
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.WindowsForms\bin\Debug\OrientacaoObjeto.WindowsForms.pdb
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.WindowsForms\bin\Debug\OrientacaoObjeto.Dia02.dll
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.WindowsForms\bin\Debug\OrientacaoObjeto.Dia02.pdb
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.WindowsForms\obj\Debug\OrientacaoObjeto.WindowsForms.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.WindowsForms\obj\Debug\OrientacaoObjeto.WindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.WindowsForms\obj\Debug\OrientacaoObjeto.WindowsForms.Form1.resources
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.WindowsForms\obj\Debug\OrientacaoObjeto.WindowsForms.csproj.GenerateResource.cache
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.WindowsForms\obj\Debug\OrientacaoObjeto.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.WindowsForms\obj\Debug\OrientacaoObjeto.WindowsForms.csproj.CopyComplete
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.WindowsForms\obj\Debug\OrientacaoObjeto.WindowsForms.exe
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.WindowsForms\obj\Debug\OrientacaoObjeto.WindowsForms.pdb

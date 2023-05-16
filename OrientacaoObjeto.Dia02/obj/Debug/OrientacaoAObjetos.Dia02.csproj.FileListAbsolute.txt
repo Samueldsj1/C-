@@ -1,0 +1,6 @@
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.Dia02\bin\Debug\OrientacaoObjeto.Dia02.dll
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.Dia02\bin\Debug\OrientacaoObjeto.Dia02.pdb
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.Dia02\obj\Debug\OrientacaoAObjetos.Dia02.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.Dia02\obj\Debug\OrientacaoAObjetos.Dia02.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.Dia02\obj\Debug\OrientacaoObjeto.Dia02.dll
+C:\Users\ALUNO\source\repos\OrientacaoObjeto\OrientacaoObjeto.Dia02\obj\Debug\OrientacaoObjeto.Dia02.pdb
