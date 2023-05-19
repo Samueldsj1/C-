@@ -1,0 +1,8 @@
+C:\Users\ALUNO\source\repos\LocadoraClassic\LocadoraClassic.View\bin\Debug\LocadoraClassic.View.dll
+C:\Users\ALUNO\source\repos\LocadoraClassic\LocadoraClassic.View\bin\Debug\LocadoraClassic.View.pdb
+C:\Users\ALUNO\source\repos\LocadoraClassic\LocadoraClassic.View\obj\Debug\LocadoraClassic.View.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\LocadoraClassic\LocadoraClassic.View\obj\Debug\LocadoraClassic.View.Tela01.resources
+C:\Users\ALUNO\source\repos\LocadoraClassic\LocadoraClassic.View\obj\Debug\LocadoraClassic.View.csproj.GenerateResource.cache
+C:\Users\ALUNO\source\repos\LocadoraClassic\LocadoraClassic.View\obj\Debug\LocadoraClassic.View.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\LocadoraClassic\LocadoraClassic.View\obj\Debug\LocadoraClassic.View.dll
+C:\Users\ALUNO\source\repos\LocadoraClassic\LocadoraClassic.View\obj\Debug\LocadoraClassic.View.pdb
