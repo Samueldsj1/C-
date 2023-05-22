@@ -1,6 +1,6 @@
 ﻿namespace LocadoraClassic.View
 {
-    partial class Form1
+    partial class FrmTelaGenero
     {
         /// <summary>
         /// Required designer variable.
@@ -28,12 +28,57 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmTelaGenero));
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtCadastrarGenero = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(203, 170);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Nome";
+            // 
+            // txtCadastrarGenero
+            // 
+            this.txtCadastrarGenero.Location = new System.Drawing.Point(244, 167);
+            this.txtCadastrarGenero.Name = "txtCadastrarGenero";
+            this.txtCadastrarGenero.Size = new System.Drawing.Size(275, 20);
+            this.txtCadastrarGenero.TabIndex = 1;
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(320, 206);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(115, 29);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "Cadastrar";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
+            // FrmTelaGenero
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.txtCadastrarGenero);
+            this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Name = "FrmTelaGenero";
+            this.Text = "TelaGenero";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox txtCadastrarGenero;
+        private System.Windows.Forms.Button button1;
     }
 }

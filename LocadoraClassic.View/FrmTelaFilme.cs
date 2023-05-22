@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace LocadoraClassic.View
 {
-    public partial class Form1 : Form
+    public partial class FrmTelaFilme : Form
     {
-        public Form1()
+        public FrmTelaFilme()
         {
             InitializeComponent();
         }
